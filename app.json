@@ -1,0 +1,43 @@
+{
+  "name": "Gift-md",
+  "description": "THE BEST BOT IN THE UNIVERSE",
+  "logo": "https://files.catbox.moe/60lx1p.jpg",
+  "keywords": [],
+  "repository": "https://github.com/eminentboy11/GIFT-MD",
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "scripts": {
+    "start": "node --expose-gc --max-old-space-size=280 --optimize-for-size --gc-interval=100 index.js"
+  },
+"env": {
+  "SESSION_ID": {
+    "description": "Must begin with 'Gift-MD:~'.",
+    "value": "",
+    "required": true
+  }
+},  
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "standard-2x"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
