@@ -2,15 +2,15 @@
 
 
 
-<h1 align="center">𝗚𝗜𝗙𝗧 𝗠𝗗 </h1>
+<h1 align="center"> 𝐆𝐈𝐅𝐓-𝐗  </h1>
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://mrfrankk-cdn.hf.space/media/a-cute-futuristic-robot-typing-on-a-glow_vkzjB5LvS-edi-xcXMIzvg_o9prOz_aTpGBmGV2TmFV7A.jpeg" alt="GIFT MD" height="auto"> 
+    <img src="https://mrfrankk-cdn.hf.space/media/a-cute-futuristic-robot-typing-on-a-glow_vkzjB5LvS-edi-xcXMIzvg_o9prOz_aTpGBmGV2TmFV7A.jpeg" alt="𝗚𝗜𝗙𝗧-𝗫 " height="auto"> 
 </a> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+GIFT+MD;MADE+BY+ISAAC+FAVOUR;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+𝐆𝐈𝐅𝐓-𝐗;MADE+BY+ISAAC+FAVOUR;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
@@ -20,7 +20,7 @@
 
  <p align="center">
 <a href="https://github.com/eminentboy11/followers"><img title="Followers" src="https://img.shields.io/github/followers/eminentboy11?color=purple&style=flat-square"></a>
-<a href="https://github.com/eminentboy11/Gift-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/eminentboy11/GIFT-MD?color=blue&style=flat-square"></a> 
+<a href="https://github.com/eminentboy11/Gift-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/eminentboy11/Gift-X?color=blue&style=flat-square"></a> 
 <a href="https://github.com/eminentboy11/Gift-X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/eminentboy11/Gift-X?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/eminentboy11/Gift-X/"><img title="Size" src="https://img.shields.io/github/repo-size/eminentboy11/Gift-X?style=flat-square&color=green"></a>
 <a href="https://github.com/eminentboy11.svg"></a>&nbsp;&nbsp;</a>
