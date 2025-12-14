@@ -2,7 +2,7 @@
   "name": "Gift-X",
   "description": "THE BEST BOT IN THE UNIVERSE",
   "logo": "https://files.catbox.moe/60lx1p.jpg",
-  "keywords": [],
+  "keywords": ["whatsapp-bot", "nodejs", "baileys"],
   "repository": "https://github.com/eminentboy11/Gift-X",
   "stack": "container",
   
@@ -11,10 +11,6 @@
       "plan": "heroku-postgresql"
     }
   ],
-  
-  "scripts": {
-    "start": "node index.js"
-  },
   
   "env": {
     "SESSION_ID": {
@@ -26,13 +22,16 @@
       "description": "Bot owner's WhatsApp number (with country code, no + or spaces). Example: 2348102487241",
       "value": "",
       "required": true
-    },
+    }
+  },
+  
   "formation": {
     "worker": {
       "quantity": 1,
       "size": "basic"
     }
   },
+  
   "buildpacks": [
     {
       "url": "heroku/nodejs"
