@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align="center">𝗚𝗜𝗙𝗧 𝗠𝗗</h1>
 
 <div align="center"> 
@@ -15,7 +12,7 @@
 
    </p>
 <p align="center">
-<a href="https://github.com/eminentboy11"><img title="Author" src="https://img.shields.io/badge/Eminentboy-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@officialgift-md?si=Q4ohdtVCZI6wPESw"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2348154853640"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/eminentboy11"><img title="Author" src="https://img.shields.io/badge/Eminentboy-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@officialgift-md?si=Q4ohdtVCZI6wPESw"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2348085046874"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -43,7 +40,7 @@
 <p align="center">
     <strong>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝗜𝗗 </strong>
   <br>
-    <a href="https://pair-v44u.onrender.com/" target="_blank">
+    <a href="https://zygomorphic-zulema-eminentbo-df6d7b4f.koyeb.app" target="_blank">
         <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
     </a>
 </p>
@@ -92,4 +89,4 @@
 >> `README BY MR FRANK OFC 🇿🇼`
 ##
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://i.imgur.hcom/LyHic3.gif'/>
